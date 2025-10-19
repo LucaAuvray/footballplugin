@@ -1,0 +1,15 @@
+name: FootballPlugin
+authors:
+  - CodinBox
+  - dandan2611
+main: fr.codinbox.footballplugin.FootballPlugin
+version: 1.4
+api-version: 1.13
+
+depend: [NametagEdit,ProtocolLib]
+
+commands:
+  football:
+    description: Football command
+    aliases: fb
+
